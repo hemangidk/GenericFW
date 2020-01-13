@@ -1,0 +1,6 @@
+d{dd/MM/yyyy HH:mm:ss} devpinoyLogger Getting errors
+13/01/2020 09:24:56 devpinoyLogger Getting errors
+13/01/2020 09:37:58 devpinoyLogger Opening ::http://demo.guru99.com/test/delete_customer.php
+13/01/2020 09:38:01 devpinoyLogger Enetring value ::53920
+13/01/2020 09:38:01 devpinoyLogger Enetring value ::Success
+13/01/2020 09:38:07 devpinoyLogger Closing all browsers opened by selenium
