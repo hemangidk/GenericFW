@@ -2,6 +2,8 @@ package com.util;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Listeners;
+
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.ie.InternetExplorerDriver;
@@ -15,10 +17,16 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import java.io.File;
 import org.openqa.selenium.WebDriver;
 
+@Listeners({com.util.ListenerTest.class, com.util.ReportListener.class})		
+
+
 public class test_bed {
 	public static UtilProperties property = new UtilProperties();
 	public static Util4jLogs Log4j = new Util4jLogs();
 	public static WebDriver driver;
+	
+		
+
 
 	@BeforeTest
 	public void Setup() throws IOException {

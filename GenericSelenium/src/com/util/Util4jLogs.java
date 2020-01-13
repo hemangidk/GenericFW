@@ -39,5 +39,11 @@ public class Util4jLogs
         final Logger log = Logger.getLogger("devpinoyLogger");
         log.debug((Object)msg);
     }
+    
+    public void LogSumInfo(final String msg) {
+        PropertyConfigurator.configure(Util4jLogs.log4jConfPath);
+        final Logger log = Logger.getLogger("SummaryLogger");
+        log.info((Object)msg);
+    }
 }
 

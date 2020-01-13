@@ -4,3 +4,49 @@ d{dd/MM/yyyy HH:mm:ss} devpinoyLogger Getting errors
 13/01/2020 09:38:01 devpinoyLogger Enetring value ::53920
 13/01/2020 09:38:01 devpinoyLogger Enetring value ::Success
 13/01/2020 09:38:07 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 10:59:45 devpinoyLogger Opening ::http://demo.guru99.com/test/delete_customer.php
+13/01/2020 10:59:45 devpinoyLogger Enetring value ::53920
+13/01/2020 10:59:48 devpinoyLogger Enetring value ::Success
+13/01/2020 10:59:54 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:04:13 devpinoyLogger Opening ::http://demo.guru99.com/test/delete_customer.php
+13/01/2020 11:04:13 devpinoyLogger Enetring value ::53920
+13/01/2020 11:04:16 devpinoyLogger Enetring value ::Success
+13/01/2020 11:04:22 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:05:43 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:07:26 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:09:26 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:11:16 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:12:59 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 11:18:02 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:02:59 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:04:23 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:12:02 SummaryLogger Passed: Login
+13/01/2020 19:12:02 SummaryLogger Failed: TestToFail
+13/01/2020 19:12:03 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:19:33 SummaryLogger Passed: e_method
+13/01/2020 19:19:33 SummaryLogger Passed: a_method
+13/01/2020 19:19:33 SummaryLogger Passed: d_method
+13/01/2020 19:19:33 SummaryLogger Passed: c_method
+13/01/2020 19:19:33 SummaryLogger Passed: b_method
+13/01/2020 19:19:34 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:20:28 SummaryLogger Passed: Login
+13/01/2020 19:20:28 SummaryLogger Failed: TestToFail
+13/01/2020 19:20:28 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:36:11 SummaryLogger Passed: e_method
+13/01/2020 19:36:11 SummaryLogger Passed: a_method
+13/01/2020 19:36:11 SummaryLogger Passed: d_method
+13/01/2020 19:36:11 SummaryLogger Passed: c_method
+13/01/2020 19:36:11 SummaryLogger Passed: b_method
+13/01/2020 19:36:12 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 19:37:53 SummaryLogger Passed: e_method
+13/01/2020 19:37:53 SummaryLogger Passed: a_method
+13/01/2020 19:37:53 SummaryLogger Passed: d_method
+13/01/2020 19:37:53 SummaryLogger Passed: c_method
+13/01/2020 19:37:53 SummaryLogger Passed: b_method
+13/01/2020 19:37:54 devpinoyLogger Closing all browsers opened by selenium
+13/01/2020 20:14:08 SummaryLogger Passed: e_method
+13/01/2020 20:14:08 SummaryLogger Passed: a_method
+13/01/2020 20:14:08 SummaryLogger Passed: d_method
+13/01/2020 20:14:08 SummaryLogger Passed: c_method
+13/01/2020 20:14:08 SummaryLogger Passed: b_method
+13/01/2020 20:14:09 devpinoyLogger Closing all browsers opened by selenium

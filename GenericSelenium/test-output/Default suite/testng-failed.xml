@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testcases.TestAlertPopups">
+      <class name="testng.ListenerDemo">
         <methods>
-          <include name="HandleAlerts"/>
+          <include name="TestToFail"/>
           <include name="Setup"/>
           <include name="afterMethod"/>
         </methods>
-      </class> <!-- com.testcases.TestAlertPopups -->
+      </class> <!-- testng.ListenerDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

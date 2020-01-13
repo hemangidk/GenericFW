@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[********** c_method  **]]>
+    </line>
+    <line>
+      <![CDATA[********** b_method  **]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-01-13T11:16:48 IST" name="Default suite" finished-at="2020-01-13T11:18:02 IST" duration-ms="74720">
+  <suite started-at="2020-01-13T20:14:02 IST" name="Default suite" finished-at="2020-01-13T20:14:09 IST" duration-ms="6941">
     <groups>
     </groups>
-    <test started-at="2020-01-13T11:16:48 IST" name="Default test" finished-at="2020-01-13T11:18:02 IST" duration-ms="74720">
-      <class name="com.testcases.BrokenLinks">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.testcases.BrokenLinks@5cc9d3d0]" started-at="2020-01-13T11:16:48 IST" name="Setup" finished-at="2020-01-13T11:16:54 IST" duration-ms="6360" status="PASS">
+    <test started-at="2020-01-13T20:14:02 IST" name="Default test" finished-at="2020-01-13T20:14:09 IST" duration-ms="6941">
+      <class name="com.testcases.TestNG_Priority_Annotations">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:02 IST" name="Setup" finished-at="2020-01-13T20:14:08 IST" duration-ms="6073" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="BrokenLinksTest()[pri:0, instance:com.testcases.BrokenLinks@5cc9d3d0]" started-at="2020-01-13T11:16:54 IST" name="BrokenLinksTest" finished-at="2020-01-13T11:18:02 IST" duration-ms="68127" status="PASS">
+        <test-method signature="e_method()[pri:0, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="e_method" finished-at="2020-01-13T20:14:08 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BrokenLinksTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testcases.BrokenLinks@5cc9d3d0]" started-at="2020-01-13T11:18:02 IST" name="afterMethod" finished-at="2020-01-13T11:18:02 IST" duration-ms="144" status="PASS">
+        </test-method> <!-- e_method -->
+        <test-method signature="a_method()[pri:1, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="a_method" finished-at="2020-01-13T20:14:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_method -->
+        <test-method signature="d_method()[pri:3, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="d_method" finished-at="2020-01-13T20:14:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_method -->
+        <test-method signature="c_method()[pri:6, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="c_method" finished-at="2020-01-13T20:14:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[********** c_method  **]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_method -->
+        <test-method signature="b_method()[pri:9, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="b_method" finished-at="2020-01-13T20:14:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[********** b_method  **]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_method -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testcases.TestNG_Priority_Annotations@6156496]" started-at="2020-01-13T20:14:08 IST" name="afterMethod" finished-at="2020-01-13T20:14:09 IST" duration-ms="686" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.testcases.BrokenLinks -->
+      </class> <!-- com.testcases.TestNG_Priority_Annotations -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
