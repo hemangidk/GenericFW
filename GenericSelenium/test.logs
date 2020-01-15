@@ -21,3 +21,7 @@
 13/01/2020 19:02:59 devpinoyLogger Closing all browsers opened by selenium
 13/01/2020 19:04:23 devpinoyLogger Closing all browsers opened by selenium
 13/01/2020 19:12:03 devpinoyLogger Closing all browsers opened by selenium
+14/01/2020 10:01:50 devpinoyLogger Opening ::http://demo.guru99.com/test/delete_customer.php
+14/01/2020 10:01:50 devpinoyLogger Enetring value ::53920
+14/01/2020 10:01:53 devpinoyLogger Enetring value ::Success
+14/01/2020 10:01:58 devpinoyLogger Closing all browsers opened by selenium

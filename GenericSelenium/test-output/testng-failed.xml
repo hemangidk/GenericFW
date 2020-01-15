@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.ListenerDemo">
+      <class name="cucumber.test.cucu_test_login">
         <methods>
-          <include name="TestToFail"/>
-          <include name="Setup"/>
-          <include name="afterMethod"/>
+          <include name="setUP"/>
+          <include name="login"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- testng.ListenerDemo -->
+      </class> <!-- cucumber.test.cucu_test_login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

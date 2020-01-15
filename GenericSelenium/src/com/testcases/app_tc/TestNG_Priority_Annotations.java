@@ -1,4 +1,4 @@
-package com.testcases;
+package app_tc;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;

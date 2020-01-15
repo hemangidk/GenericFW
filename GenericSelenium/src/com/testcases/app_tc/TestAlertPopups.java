@@ -1,4 +1,4 @@
-package com.testcases;
+package app_tc;
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.Alert;

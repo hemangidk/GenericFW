@@ -1,4 +1,4 @@
-package com.testcases;
+package app_tc;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

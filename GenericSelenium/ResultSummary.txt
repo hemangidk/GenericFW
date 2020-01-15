@@ -20,3 +20,8 @@
 13/01/2020 20:14:08 SummaryLogger Passed: d_method
 13/01/2020 20:14:08 SummaryLogger Passed: c_method
 13/01/2020 20:14:08 SummaryLogger Passed: b_method
+14/01/2020 09:31:24 SummaryLogger Skipped: login
+14/01/2020 09:33:16 SummaryLogger Skipped: login
+14/01/2020 09:35:36 SummaryLogger Skipped: login
+14/01/2020 09:37:53 SummaryLogger Skipped: login
+14/01/2020 10:01:58 SummaryLogger Passed: HandleAlerts
